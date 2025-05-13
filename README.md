@@ -1,7 +1,7 @@
-# 🔥 Exploratory Data Analysis (EDA) of forest fires in Europe (EFFIS, 2000–2024)
+# 🔥 Grandes Incendios Forestales en Europa
+**Una mirada a los últimos 25 años.**
 
-This repository contains an exploratory data analysis (EDA) of the burned area database from the EFFIS (European Forest Fire Information System) covering the years 2000 to 2024.
-The main objective is to identify spatial and temporal patterns of forest fires in Europe by analyzing their frequency, seasonality, and location.
-Clustering techniques are applied to detect recurrent fire-prone areas, and temporal trends are explored throughout the year.
+Este repositorio contiene un análisis exploratorio (EDA) sobre la base de datos del Sistema Europeo de Información sobre Incendios Forestales ([EFFIS](https://forest-fire.emergency.copernicus.eu/), por sus siglas en inglés) que abarca el período 2000-2024.
+El objetivo principal es identificar patrones espaciales y temporales de incendios forestales en Europa mediante el análisis de su ubicación, frecuencia y estacionalidad. Por último, se explorará la evolución del tamaño de estos incendios.
 
-Data source: [EFFIS](https://forest-fire.emergency.copernicus.eu/)
+[Enlace ponencia](https://drive.google.com/file/d/1ft6Yh45eeb2WbG8x8xKv49UWNoBLisuN/view?usp=drive_link)
